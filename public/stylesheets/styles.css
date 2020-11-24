@@ -1,0 +1,25 @@
+#search-h1{
+    margin-top:20% ;
+}
+
+body{
+    background-color: azure;
+}
+
+.card-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    margin-left: 12.5%;
+}
+
+.card-img{
+    height: 24rem;
+}
+
+#searchheading{
+    margin-left: 12.5%;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    font-family: fantasy;
+}
